@@ -1237,4 +1237,3 @@ const reviewCourse = (enrollment) => {
   }
 }
 </style>
-</style>
